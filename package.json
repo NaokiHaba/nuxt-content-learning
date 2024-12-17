@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.13.4",
-    "nuxt": "^3.14.1592"
+    "@primevue/themes": "^4.2.5",
+    "nuxt": "^3.14.1592",
+    "primevue": "^4.2.5"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.2.5"
   }
 }
